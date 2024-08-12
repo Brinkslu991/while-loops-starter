@@ -1,3 +1,3 @@
 ### Input ( ) Function & While Loops in Python
 
-Some markdown.
+[PCC Solutions, 2nd ed.](https://ehmatthes.github.io/pcc_2e/solutions/solutions/)
