@@ -19,7 +19,10 @@ Review these resources before you start writing code for this activity.
 
 - Use comments to label each activity in your `main.py` file
 
-#### Activity 1
+#### Number Guess Game with WHILE Loop
+
+- Watch the video and write the code discussed in the video
+- [YouTube: Number Guess Game with WHILE Loop](https://www.youtube.com/watch?v=Jk3az4ZXEKU)
 
 #### Activity 2
 
