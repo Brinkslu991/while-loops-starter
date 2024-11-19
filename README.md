@@ -24,7 +24,16 @@ Review these resources before you start writing code for this activity.
 - Watch the video and write the code discussed in the video
 - [YouTube: Number Guess Game with WHILE Loop](https://www.youtube.com/watch?v=Jk3az4ZXEKU)
 
-#### Activity 2
+#### Managing a List with a WHILE Loop
+
+Summary: You'll use a WHILE loop to keep prompting the user to enter a temperature in degrees Fahrenheit until the user enters a temperature of -9999.
+
+Entering a temperature of -9999 tells Python the user wants to exit (quit) the loop.
+
+Until the user enters a temperature of -9999, Python will **append** the temperature the user enters to a list named `temperatures`.
+
+After the user quits the loop, use an `if-else` statement to:
+- 
 
 #### Activity 3
 
