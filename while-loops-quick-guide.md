@@ -36,7 +36,7 @@ In this example, we're *iterating* (looping) 5 times, and *incrementing* (increa
 
 ```python
 user_input = ""
-while user_input != "quit": 
+while user_input != "quit": # != means IS NOT EQUAL TO
     user_input = input("Enter a word (or 'quit' to exit): ") 
     print(user_input)
 ```
