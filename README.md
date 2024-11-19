@@ -39,4 +39,6 @@ After the user quits the loop, use an `if-else` statement to:
 - use the list, the `len()` and the `sum()` functions to calculate and display the average temperature
 - The `else` clause should display the message *No temperatures were entered.` if the user added no temperatures to the list
 
+#### Sample Output
 
+![sample output](sample_output.png)
