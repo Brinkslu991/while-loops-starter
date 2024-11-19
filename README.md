@@ -30,13 +30,13 @@ Summary: You'll use a WHILE loop to keep prompting the user to enter a temperatu
 
 Entering a temperature of -9999 tells Python the user wants to exit (quit) the loop.
 
-Until the user enters a temperature of -9999, Python will **append** the temperature the user enters to a list named `temperatures`.
+Until the user enters a temperature of -9999, Python will **append** each temperature the user enters to a list named `temperatures`.
 
 After the user quits the loop, use an `if-else` statement to:
-- 
 
-#### Activity 3
-
-#### Activity 4
+- check to see if the **length** of the list of temperatures is greater than zero (0)
+- display the list of collected temperatures (if the list is not empty)
+- use the list, the `len()` and the `sum()` functions to calculate and display the average temperature
+- The `else` clause should display the message *No temperatures were entered.` if the user added no temperatures to the list
 
 
