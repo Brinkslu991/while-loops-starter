@@ -13,3 +13,18 @@ Review these resources before you start writing code for this activity.
 - Watch this brief YouTube video about [Python while loops](https://youtu.be/rRTjPnVooxE?feature=shared)
 
 - Read this [handout](https://github.com/manfredspitze/while-loops-starter/blob/main/while-loops-quick-guide.md) about Python WHILE loops
+
+
+### Practice
+
+- Use comments to label each activity in your `main.py` file
+
+#### Activity 1
+
+#### Activity 2
+
+#### Activity 3
+
+#### Activity 4
+
+
