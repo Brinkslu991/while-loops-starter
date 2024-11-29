@@ -19,7 +19,7 @@
 - Define two variables, `my_score` and `your_score` and assign a different quiz score such as 88 or 93 to each variable
 - Use the **increment operator** to increment (increase) the value of `my_score` by 10
 - Then use the **decrement operator** to decrement (decrease) the value of `your_score` by 20
-- Print the updated value of `my_score` and `your_score`
+- Print the updated value of `my_score` and `your_score` (don't use a while loop to print the values stored in each variable)
 
 #### Counting Up with a While Loop
 
