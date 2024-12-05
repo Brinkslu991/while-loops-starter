@@ -30,7 +30,7 @@
 
 #### Counting Down with a While Loop
 
-- Write a while loop that displays the message 'We have liftoff!' when the value of its counter variable `countedown` reaches 1
+- Write a while loop that displays the message 'We have liftoff!' when the value of its counter variable `countdown` reaches 1
 - Set the initial value of `countdown` to 10
 - While (as long as) the value of `countdown` is greater than zero:
   - print the value of `countdown`
