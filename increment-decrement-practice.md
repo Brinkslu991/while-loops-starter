@@ -24,7 +24,7 @@
 #### Counting Up with a While Loop
 
 - Define a variable `counter` and set its starting value to zero (0)
-- Set up a while loop that keeps looping while (as long as) the value of `counter` is less than 5
+- Set up a while loop that keeps looping `while` (as long as) the value of `counter` is less than 5
 - In the body of your while loop, print the value of your `counter` variable
 - Remember to increment the value of your `counter` variable by 1 at the bottom of your while loop
 
