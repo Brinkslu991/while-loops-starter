@@ -23,7 +23,7 @@ while condition:
   * Example: Iterating (looping) over the items in a Python list.
   * The for loop stops when it reaches the end of your Python list.
 * **While Loop:** Use when you don't know in advance how many times you want your loop to run or when you want the loop to keep looping until a certain condition is met.  
-  * Example: Repeating a task until the user decides to quit the loop.
+  * Example: Prompting the user to enter a number (such as a temperature or a quiz score) until the user decides to quit the loop.
 
 ### **Example 1: Simple Counter**
 
