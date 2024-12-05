@@ -4,6 +4,8 @@
 
 Iterating means repeating a task over and over again. It's like washing a stack of plates, one plate at a time. Each time you wash a plate would be called an iteration.
 
+In programming, each time a loop runs (loops) is known as an *iteration*.
+
 ### **What is a While Loop?**
 
 A while loop is a control flow statement that allows you to **execute** (*run*) a block of code over and over again as long as a certain condition is true.
