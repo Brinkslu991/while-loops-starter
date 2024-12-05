@@ -8,7 +8,7 @@ In programming, each time a loop runs (loops) is known as an *iteration*.
 
 ### **What is a While Loop?**
 
-A while loop is a control statement that allows you to **execute** (*run*) a block of code over and over again as long as a certain condition is true.
+A while loop is a control statement that allows you to **execute** (*run*) a block of code over and over again *as long as a certain condition is true*.
 
 **Creating a While Loop:**
 
