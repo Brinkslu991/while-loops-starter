@@ -57,7 +57,7 @@ A flag variable is a Boolean variable that can be used to control the execution 
 ```python
 keep_going = True
 while keep_going: 
-    user_input = input("Enter a word (or 'quit' to exit): ")
+    user_input = input("Enter a word (or 'quit' to exit): ").lower() # Convert input to lowercase
     if user_input == "quit": 
         keep_going = False  
     else: 
