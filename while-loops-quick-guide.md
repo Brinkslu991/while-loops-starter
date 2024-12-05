@@ -33,7 +33,7 @@ while count < 5:
     print(count)  
     count += 1
 ```
-In this example, we're *iterating* (looping) 5 times, and *incrementing* (increasing) the count variable by one each time the loop loops (iterates).
+In this example, we're *iterating* (looping) 5 times, and *incrementing* (increasing) the count variable by one each time the loop runs (iterates).
 
 ### **Example 2: User Input**
 
