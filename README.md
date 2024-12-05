@@ -30,7 +30,7 @@ Summary: You'll use a WHILE loop to keep prompting the user to enter a temperatu
 
 Entering a temperature of -9999 tells Python the user wants to exit (quit) the loop.
 
-Until the user enters a temperature of -9999, Python will **append** each temperature the user enters to a list named `temperatures`.
+Unless the user enters a temperature of -9999, Python will **append** each temperature the user enters to a list named `temperatures`.
 
 After the user quits the loop, use an `if-else` statement to:
 
