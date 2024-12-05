@@ -44,7 +44,7 @@ while user_input != "quit": # != means IS NOT EQUAL TO
     print(user_input)
 ```
 
-Here, we're iterating (looping) until the user enters "quit". The loop continues as long as the user's input is not the word "quit".
+Here, we're iterating (looping) until the user enters "quit". The loop runs as long as the user's input is not the word "quit".
 
 ### **Flag Variables & While Loops**
 
