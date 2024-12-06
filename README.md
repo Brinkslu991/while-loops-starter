@@ -35,9 +35,9 @@ Unless the user enters a temperature of -9999, Python will **append** each tempe
 After the user quits the loop, use an `if-else` statement to:
 
 - check to see `if` the **length** of the list of temperatures is greater than zero (0)
-  - display the list of collected temperatures (if the list is not empty)
-  - use the list, the `len()` and the `sum()` functions to calculate and display the average temperature
-- The `else` clause should display the message *No temperatures were entered* if the user added no temperatures to the list
+  - If the list length IS greater than zero, display the list of collected temperatures 
+  - Next, use the list, the `len()` and the `sum()` functions to calculate and display the average temperature
+- The `else` clause should display the message *No temperatures were entered* if the temperatures list is empty
 
 #### Sample Output
 
