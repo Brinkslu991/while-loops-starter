@@ -8,7 +8,7 @@ As part of this activity, you'll learn:
 
 ### Resources
 
-Review these resources before you start writing code for this activity.
+Review these resources if you need a refresher on how `while` loops work and different ways to set up a `while` loop
 
 - Watch this brief YouTube video about [Python while loops](https://youtu.be/rRTjPnVooxE?feature=shared)
 
